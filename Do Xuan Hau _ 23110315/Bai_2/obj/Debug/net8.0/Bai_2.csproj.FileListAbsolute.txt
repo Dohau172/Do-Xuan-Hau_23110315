@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Documents\C#\Do Xuan Hau _ 23110315\Bai_2\bin\Debug\net8.0\Bai_2.exe
+C:\Users\Admin\OneDrive\Documents\C#\Do Xuan Hau _ 23110315\Bai_2\bin\Debug\net8.0\Bai_2.deps.json
+C:\Users\Admin\OneDrive\Documents\C#\Do Xuan Hau _ 23110315\Bai_2\bin\Debug\net8.0\Bai_2.runtimeconfig.json
+C:\Users\Admin\OneDrive\Documents\C#\Do Xuan Hau _ 23110315\Bai_2\bin\Debug\net8.0\Bai_2.dll
+C:\Users\Admin\OneDrive\Documents\C#\Do Xuan Hau _ 23110315\Bai_2\bin\Debug\net8.0\Bai_2.pdb
+C:\Users\Admin\OneDrive\Documents\C#\Do Xuan Hau _ 23110315\Bai_2\obj\Debug\net8.0\Bai_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Documents\C#\Do Xuan Hau _ 23110315\Bai_2\obj\Debug\net8.0\Bai_2.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Documents\C#\Do Xuan Hau _ 23110315\Bai_2\obj\Debug\net8.0\Bai_2.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Documents\C#\Do Xuan Hau _ 23110315\Bai_2\obj\Debug\net8.0\Bai_2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\C#\Do Xuan Hau _ 23110315\Bai_2\obj\Debug\net8.0\Bai_2.dll
+C:\Users\Admin\OneDrive\Documents\C#\Do Xuan Hau _ 23110315\Bai_2\obj\Debug\net8.0\refint\Bai_2.dll
+C:\Users\Admin\OneDrive\Documents\C#\Do Xuan Hau _ 23110315\Bai_2\obj\Debug\net8.0\Bai_2.pdb
+C:\Users\Admin\OneDrive\Documents\C#\Do Xuan Hau _ 23110315\Bai_2\obj\Debug\net8.0\Bai_2.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Documents\C#\Do Xuan Hau _ 23110315\Bai_2\obj\Debug\net8.0\ref\Bai_2.dll

@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Documents\C#\Bai_1\bin\Debug\net8.0\Bai_1.exe
+C:\Users\Admin\OneDrive\Documents\C#\Bai_1\bin\Debug\net8.0\Bai_1.deps.json
+C:\Users\Admin\OneDrive\Documents\C#\Bai_1\bin\Debug\net8.0\Bai_1.runtimeconfig.json
+C:\Users\Admin\OneDrive\Documents\C#\Bai_1\bin\Debug\net8.0\Bai_1.dll
+C:\Users\Admin\OneDrive\Documents\C#\Bai_1\bin\Debug\net8.0\Bai_1.pdb
+C:\Users\Admin\OneDrive\Documents\C#\Bai_1\obj\Debug\net8.0\Bai_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Documents\C#\Bai_1\obj\Debug\net8.0\Bai_1.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Documents\C#\Bai_1\obj\Debug\net8.0\Bai_1.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Documents\C#\Bai_1\obj\Debug\net8.0\Bai_1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\C#\Bai_1\obj\Debug\net8.0\Bai_1.dll
+C:\Users\Admin\OneDrive\Documents\C#\Bai_1\obj\Debug\net8.0\refint\Bai_1.dll
+C:\Users\Admin\OneDrive\Documents\C#\Bai_1\obj\Debug\net8.0\Bai_1.pdb
+C:\Users\Admin\OneDrive\Documents\C#\Bai_1\obj\Debug\net8.0\Bai_1.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Documents\C#\Bai_1\obj\Debug\net8.0\ref\Bai_1.dll
